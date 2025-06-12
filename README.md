@@ -38,4 +38,4 @@ Application properties are managed in `src/main/resources/application.yml` or `a
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/LastComrade/KAFKA-PRACTICE/blob/main/LICENSE) file for details.
